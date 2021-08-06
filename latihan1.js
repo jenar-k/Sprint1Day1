@@ -1,3 +1,4 @@
+//Jenar K
 // ===== Belajar Alert prompt dan document write =====
 
 alert('selamat datang di kelas ini ...');
